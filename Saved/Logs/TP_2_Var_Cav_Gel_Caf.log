@@ -32183,3 +32183,300 @@ FPackageName: Skipped package /Game/Texturas/PisoBaño/plane_divided_DefaultMat
 [2026.08.04-23.44.44:824][602]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1316.139160
 [2026.08.04-23.44.45:822][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.08.04-23.44.45:822][605]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1316.805176, Update Interval: 359.478149
+[2026.08.04-23.45.22:231][388]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (14 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.37)
+[2026.08.04-23.45.31:927][403]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (34 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.19)
+[2026.08.04-23.45.32:689][482]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (46 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.44)
+[2026.08.04-23.45.34:112][611]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (22 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.21)
+[2026.08.04-23.45.36:155][808]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (25 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.21)
+[2026.08.04-23.45.50:619][356]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.13)
+[2026.08.04-23.46.11:412][557]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.25)
+[2026.08.04-23.46.13:179][739]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (46 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.18)
+[2026.08.04-23.48.42:153][510]LogStreaming: Display: FlushAsyncLoading(770): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.04-23.48.42:171][510]LogInterchangeEngine: [Pendiente] Importando
+[2026.08.04-23.48.42:171][510]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/jorge/Downloads/old_metal_teapot/pava/Material.003_baseColor.png]
+[2026.08.04-23.48.42:173][510]LogInterchangeEngine: [Pendiente] Importando -  (2)
+[2026.08.04-23.48.42:173][510]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/jorge/Downloads/old_metal_teapot/pava/Material.003_metallicRoughness.png]
+[2026.08.04-23.48.42:174][510]LogInterchangeEngine: [Pendiente] Importando -  (3)
+[2026.08.04-23.48.42:174][510]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/jorge/Downloads/old_metal_teapot/pava/Material.003_normal.png]
+[2026.08.04-23.48.42:188][510]LogAssetTools: Warning: No se ha podido realizar to importar 'C:\Users\jorge\Downloads\old_metal_teapot\pava/scene.bin'. DESCONOCIDO extension 'bin'.
+[2026.08.04-23.48.42:518][510]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/jorge/Downloads/old_metal_teapot/pava/scene.gltf]
+[2026.08.04-23.48.44:947][510]LogSlate: Window 'ImportContent' being destroyed
+[2026.08.04-23.48.44:967][510]LogInterchangeEngine: [Pendiente] Importando -  (4)
+[2026.08.04-23.48.45:085][511]LogStreaming: Display: FlushAsyncLoading(811): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.04-23.48.45:131][512]LogStreaming: Display: FlushAsyncLoading(814): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.04-23.48.45:186][514]LogStreaming: Display: FlushAsyncLoading(818): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.04-23.48.45:245][516]LogStaticMesh: Display: Malla estática de construcción scene (Estimación de memoria necesaria: 7.330014 MB)...
+[2026.08.04-23.48.45:257][516]LogStaticMesh: Adjacency [0.00s], tris: 3836, UVs 4
+[2026.08.04-23.48.45:270][516]LogStaticMesh: Clustering [0.01s]. Ratio: 1.100000
+[2026.08.04-23.48.45:271][516]LogStaticMesh: Leaves [0.00s]
+[2026.08.04-23.48.45:287][516]LogTexture: Display: Creación de texturas: /Game/ASSETS/pava/Material_003_baseColor.Material_003_baseColor (TFO_AutoDXT, 2048X2048 X1X1X1) (Memoria requerida aproximada: 280.999983 MB), EncodeSpeed: Fast
+[2026.08.04-23.48.45:298][516]LogTexture: Display: Creación de texturas: /Game/ASSETS/pava/Material_003_metallicRoughness.Material_003_metallicRoughness (TFO_AutoDXT, 2048X2048 X1X1X1) (Memoria requerida aproximada: 280.999983 MB), EncodeSpeed: Fast
+[2026.08.04-23.48.45:314][516]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.08.04-23.48.45:346][517]LogTexture: Display: Creación de texturas: /Game/ASSETS/pava/Material_003_normal.Material_003_normal (TFO_BC5, 2048X2048 X1X1X1) (Memoria requerida aproximada: 382.499988 MB), EncodeSpeed: Fast
+[2026.08.04-23.48.45:526][519]LogStaticMesh: Reduce [0.26s]
+[2026.08.04-23.48.45:571][519]LogInterchangeEngine: Display: Interchange import completed [C:/Users/jorge/Downl...ld_metal_teapot/pava/Material.003_baseColor.png]
+[2026.08.04-23.48.45:571][519]LogInterchangeEngine: [Pendiente] Importando -  (3)
+[2026.08.04-23.48.45:572][519]LogInterchangeEngine: Display: Interchange import completed [C:/Users/jorge/Downl...ld_metal_teapot/pava/Material.003_metallicRoughness.png]
+[2026.08.04-23.48.45:572][519]LogInterchangeEngine: [Pendiente] Importando -  (2)
+[2026.08.04-23.48.45:602][520]LogStaticMesh: Fallback [0.08s], num tris: 1135
+[2026.08.04-23.48.45:633][520]LogInterchangeEngine: Display: Interchange import completed [C:/Users/jorge/Downl...ld_metal_teapot/pava/Material.003_normal.png]
+[2026.08.04-23.48.45:633][520]LogInterchangeEngine: [Pendiente] Importando -  (1)
+[2026.08.04-23.48.45:655][521]LogStaticMesh: Fallback [0.05s], num tris: 622
+[2026.08.04-23.48.45:657][521]LogStaticMesh: ConstrainClusters:
+[2026.08.04-23.48.45:657][521]LogStaticMesh:   Input: 63 Clusters, 7613 Triangles and 5801 Vertices
+[2026.08.04-23.48.45:657][521]LogStaticMesh:   Output without splits: 63 Clusters, 7613 Triangles and 5914 Vertices
+[2026.08.04-23.48.45:657][521]LogStaticMesh:   Output with splits: 63 Clusters, 7613 Triangles and 5914 Vertices
+[2026.08.04-23.48.45:657][521]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 63, Slow Path Clusters: 0, 1 Material: 63, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.08.04-23.48.45:659][521]LogStaticMesh: WritePages:
+[2026.08.04-23.48.45:659][521]LogStaticMesh:   Root: GPU size: 32712 bytes. 1 Pages. 32712.000 bytes per page (99.829% utilization).
+[2026.08.04-23.48.45:659][521]LogStaticMesh:   Streaming: GPU size: 105700 bytes. 1 Pages (1 with relative encoding). 105700.000 bytes per page (80.643% utilization).
+[2026.08.04-23.48.45:659][521]LogStaticMesh:   Page data disk size: 111180 bytes. Fixup data size: 288 bytes.
+[2026.08.04-23.48.45:659][521]LogStaticMesh:   Total GPU size: 138412 bytes, Total disk size: 111468 bytes.
+[2026.08.04-23.48.45:659][521]LogStaticMesh: Encode [0.00s]
+[2026.08.04-23.48.45:659][521]LogStaticMesh: NaniteBuild [0.40s]
+[2026.08.04-23.48.45:699][521]LogStaticMesh: Built static mesh [0.45s] /Game/ASSETS/pava/scene/StaticMeshes/scene.scene
+[2026.08.04-23.48.45:784][522]LogTexture: Warning: Texture2D /Game/ASSETS/pava/scene/Textures/Material_003_baseColor.Material_003_baseColor contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2026.08.04-23.48.45:784][522]LogTexture: Warning: Texture2D /Game/ASSETS/pava/scene/Textures/Material_003_metallicRoughness.Material_003_metallicRoughness contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2026.08.04-23.48.45:784][522]LogTexture: Warning: Texture2D /Game/ASSETS/pava/scene/Textures/Material_003_normal.Material_003_normal contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2026.08.04-23.48.45:788][522]LogInterchangeEngine: Display: Interchange import completed [C:/Users/jorge/Downl...ld_metal_teapot/pava/scene.gltf]
+[2026.08.04-23.48.45:788][522]LogInterchangeEngine: [Pendiente] Importando - Operation completed.
+[2026.08.04-23.48.45:788][522]LogInterchangeEngine: [Éxito] Se ha completado la importación
+[2026.08.04-23.49.01:815][776]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/pava/scene/StaticMeshes/scene.scene
+[2026.08.04-23.49.01:815][776]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/pava/scene/StaticMeshes/scene.scene
+[2026.08.04-23.49.01:816][776]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/pava/scene/StaticMeshes/scene.scene as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_1
+[2026.08.04-23.49.03:652][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.08.04-23.49.03:659][915]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.08.04-23.49.03:667][915]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/pava/scene/StaticMeshes/scene.scene
+[2026.08.04-23.49.03:667][915]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ASSETS/pava/scene/StaticMeshes/scene.scene
+[2026.08.04-23.49.03:670][915]LogActorFactory: Actor Factory spawned StaticMesh /Game/ASSETS/pava/scene/StaticMeshes/scene.scene as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_2CF05D75E9F6D8F402_1191525179
+[2026.08.04-23.49.11:678][608]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.08.04-23.49.14:511][878]Cmd: TRANSACTION UNDO
+[2026.08.04-23.49.14:511][878]LogEditorTransaction: Undo Colocar objetos
+[2026.08.04-23.49.51:883][673]LogContentBrowser: Attempting asset rename: POLICIA -> pava
+[2026.08.04-23.49.52:046][673]LogMaterial: Display: MaterialInterface POLICIA has a incorrectly name EditorOnlyData 'POLICIAEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'pavaEditorOnlyData'.
+[2026.08.04-23.49.52:052][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.04-23.49.52:052][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/pava/pava] ([1] browsable assets)...
+[2026.08.04-23.49.52:060][673]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ASSETS/pava/pava.pava]
+[2026.08.04-23.49.52:060][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/pava/pava]
+[2026.08.04-23.49.52:060][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/pava/pava" FILE="../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/ASSETS/pava/pava.uasset" SILENT=true
+[2026.08.04-23.49.52:070][673]LogSavePackage: Moving output files for package: /Game/ASSETS/pava/pava
+[2026.08.04-23.49.52:070][673]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/pava36EB385E463E26016EE14783D5919B54.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/ASSETS/pava/pava.uasset'
+[2026.08.04-23.49.52:072][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 20.157 ms (total: 431.846 ms)
+[2026.08.04-23.49.52:111][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.08.04-23.49.52:139][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.08.04-23.49.52:158][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.08.04-23.49.52:215][673]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.04-23.49.52:215][673]LogContentValidation: Enabled validators:
+[2026.08.04-23.49.52:215][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.04-23.49.52:215][673]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.04-23.49.52:215][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.04-23.49.52:215][673]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.04-23.49.52:215][673]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.04-23.49.52:215][673]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.04-23.49.52:215][673]AssetCheck: /Game/ASSETS/pava/pava Validando recurso
+[2026.08.04-23.49.52:286][673]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.04-23.49.53:823][801]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ASSETS/pava/pava.pava
+[2026.08.04-23.49.53:845][801]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.08.04-23.49.53:853][801]LogStreaming: Display: FlushAsyncLoading(819): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: ================================================
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Total job queries 1545, among them cache hits 360 (23.30%), DDC hits 872 (56.44%), Duplicates 309 (20.00%)
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Tracking 876 distinct input hashes that result in 692 distinct outputs (79.00%)
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: RAM used: 8,39 MiB of 819,20 MiB budget. Usage: 1.02%
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Shaders Compiled: 4
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Average time worker was idle: 1039.86 s
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.11 s
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Job execution time: average 2.35 s, max 3.27 s
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Job life time (pending + execution): average 2.46 s, max 3.37
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Shader code size: total 97,676 KiB, numShaders 4, average 24,419 KiB, min 16,766 KiB, max 33,035 KiB
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.21 s
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Average processing rate: 0.77 jobs/sec
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Total thread time: 7,92 s
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Total thread preprocess time: 38,123 s
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Percentage time preprocessing: 481.34%
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Effective parallelization: 1.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.189943
+[2026.08.04-23.49.54:495][801]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.90 sec, max 2.90 sec, min 2.90 sec)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.28 sec, max 2.28 sec, min 2.28 sec)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.37 sec, max 1.37 sec, min 1.36 sec)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 36.67% of total time (compiled    1 times, average 2.90 sec, max 2.90 sec, min 2.90 sec)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 34.51% of total time (compiled    2 times, average 1.37 sec, max 1.37 sec, min 1.36 sec)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display:                                                 FLumenCardCS - 28.81% of total time (compiled    1 times, average 2.28 sec, max 2.28 sec, min 2.28 sec)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display: === Material stats ===
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display: Materials Translated:    327
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display: Material Translation Only: 0.12 s (45%)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display: Material Cache Hits: 66 (20%)
+[2026.08.04-23.49.54:496][801]LogShaderCompilers: Display: ================================================
+[2026.08.04-23.50.24:405][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.04-23.50.24:463][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/pava/pava] ([1] browsable assets)...
+[2026.08.04-23.50.24:477][666]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ASSETS/pava/pava.pava]
+[2026.08.04-23.50.24:478][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/pava/pava]
+[2026.08.04-23.50.24:478][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ASSETS/pava/pava" FILE="../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/ASSETS/pava/pava.uasset" SILENT=true
+[2026.08.04-23.50.24:520][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.08.04-23.50.24:656][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.08.04-23.50.24:668][666]LogSavePackage: Moving output files for package: /Game/ASSETS/pava/pava
+[2026.08.04-23.50.24:670][666]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/pava1C0E009D4E9681BD4C08B5B6655C5C63.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/ASSETS/pava/pava.uasset'
+[2026.08.04-23.50.24:680][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 274.504 ms (total: 706.350 ms)
+[2026.08.04-23.50.24:747][666]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.04-23.50.24:747][666]LogContentValidation: Enabled validators:
+[2026.08.04-23.50.24:747][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.04-23.50.24:747][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.04-23.50.24:747][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.04-23.50.24:747][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.04-23.50.24:747][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.04-23.50.24:747][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.04-23.50.24:747][666]AssetCheck: /Game/ASSETS/pava/pava Validando recurso
+[2026.08.04-23.50.26:690][802]LogSlate: Window 'pava' being destroyed
+[2026.08.04-23.50.26:696][802]LogSlate: Window 'pava' being destroyed
+[2026.08.04-23.50.26:725][802]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.08.04-23.50.26:725][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.04-23.50.26:765][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.08.04-23.50.34:827][532]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ASSETS/pava/scene/Materials/Material_003.Material_003
+[2026.08.04-23.50.34:839][532]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.08.04-23.50.46:976][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.04-23.50.47:030][203]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/pava/scene/Materials/Material_003] ([1] browsable assets)...
+[2026.08.04-23.50.47:044][203]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ASSETS/pava/scene/Materials/Material_003.Material_003]
+[2026.08.04-23.50.47:044][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/pava/scene/Materials/Material_003]
+[2026.08.04-23.50.47:085][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.08.04-23.50.47:109][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.08.04-23.50.47:122][203]LogSavePackage: Moving output files for package: /Game/ASSETS/pava/scene/Materials/Material_003
+[2026.08.04-23.50.47:122][203]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/Material_0030858ADF3422FCCC2BE33F99582641045.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/ASSETS/pava/scene/Materials/Material_003.uasset'
+[2026.08.04-23.50.47:132][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.125 ms (total: 862.475 ms)
+[2026.08.04-23.50.47:179][203]LogContentValidation: Display: Starting to validate 1 assets
+[2026.08.04-23.50.47:179][203]LogContentValidation: Enabled validators:
+[2026.08.04-23.50.47:179][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.04-23.50.47:179][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.04-23.50.47:179][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.04-23.50.47:179][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.04-23.50.47:179][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.04-23.50.47:179][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.04-23.50.47:179][203]AssetCheck: /Game/ASSETS/pava/scene/Materials/Material_003 Validando recurso
+[2026.08.04-23.50.47:207][203]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.04-23.50.50:233][404]LogSlate: Window 'Material_003' being destroyed
+[2026.08.04-23.50.50:240][404]LogSlate: Window 'Material_003' being destroyed
+[2026.08.04-23.50.50:295][404]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.08.04-23.50.50:295][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.04-23.50.50:331][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.08.04-23.50.57:275][ 44]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ASSETS/pava/scene/StaticMeshes/scene.scene
+[2026.08.04-23.50.57:348][ 44]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.08.04-23.50.57:491][ 44]LogStreaming: Display: FlushAsyncLoading(824): 1 QueuedPackages, 0 AsyncPackages
+[2026.08.04-23.51.04:396][432]LogSlate: Window 'scene' being destroyed
+[2026.08.04-23.51.04:401][432]LogSlate: Window 'scene' being destroyed
+[2026.08.04-23.51.04:464][432]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.08.04-23.51.04:464][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.04-23.51.04:519][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.08.04-23.51.12:493][284]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1703.801758
+[2026.08.04-23.51.12:695][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.08.04-23.51.12:695][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1703.995483, Update Interval: 330.348816
+[2026.08.04-23.51.27:250][746]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (51 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.19)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: ================================================
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Total job queries 1602, among them cache hits 381 (23.78%), DDC hits 905 (56.49%), Duplicates 311 (19.41%)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Tracking 910 distinct input hashes that result in 717 distinct outputs (78.79%)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: RAM used: 8,65 MiB of 819,20 MiB budget. Usage: 1.06%
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Shaders Compiled: 5
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Average time worker was idle: 570.34 s
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.11 s
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 3.27 s
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Job life time (pending + execution): average 2.14 s, max 3.37
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Shader code size: total 105,387 KiB, numShaders 5, average 21,077 KiB, min 7,711 KiB, max 33,035 KiB
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.11 s
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Average processing rate: 0.82 jobs/sec
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Total thread time: 8,457 s
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Total thread preprocess time: 39,062 s
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Percentage time preprocessing: 461.89%
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Effective parallelization: 1.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.173066
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.90 sec, max 2.90 sec, min 2.90 sec)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.28 sec, max 2.28 sec, min 2.28 sec)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.37 sec, max 1.37 sec, min 1.36 sec)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 34.35% of total time (compiled    1 times, average 2.90 sec, max 2.90 sec, min 2.90 sec)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 32.32% of total time (compiled    2 times, average 1.37 sec, max 1.37 sec, min 1.36 sec)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display:                                                 FLumenCardCS - 26.99% of total time (compiled    1 times, average 2.28 sec, max 2.28 sec, min 2.28 sec)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.35% of total time (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: === Material stats ===
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Materials Translated:    328
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Material Translation Only: 0.12 s (45%)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: Material Cache Hits: 66 (20%)
+[2026.08.04-23.52.54:496][795]LogShaderCompilers: Display: ================================================
+[2026.08.04-23.53.10:977][564]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (66 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.20)
+[2026.08.04-23.53.22:570][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.08.04-23.53.22:583][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.04-23.53.22:638][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/80/CQ6TVYHW9AIDO7CBCSDYL6
+[2026.08.04-23.53.22:640][781]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/CQ6TVYHW9AIDO7CBCSDYL6E48F8A2E43183A5007BA0B884B637630.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/80/CQ6TVYHW9AIDO7CBCSDYL6.uasset'
+[2026.08.04-23.53.22:652][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/9Y/EFUU7J327UH3RZTR8849W3
+[2026.08.04-23.53.22:654][781]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/EFUU7J327UH3RZTR8849W3A6D891DE42075DEAD54816A6676332AE.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/9Y/EFUU7J327UH3RZTR8849W3.uasset'
+[2026.08.04-23.53.22:666][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/9T/PT0WP43WM7PUAWE2QAOSHF
+[2026.08.04-23.53.22:667][781]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/PT0WP43WM7PUAWE2QAOSHF8E27BE3F47253A7F3779BEBF7BF14464.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/9T/PT0WP43WM7PUAWE2QAOSHF.uasset'
+[2026.08.04-23.53.22:679][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/ZL/JAI86DCEMMYRDRG75N4XFZ
+[2026.08.04-23.53.22:681][781]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/JAI86DCEMMYRDRG75N4XFZ1067E8B348F188B08B33DCA30E41BCEC.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/ZL/JAI86DCEMMYRDRG75N4XFZ.uasset'
+[2026.08.04-23.53.22:692][781]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/IE/QE2V86BB7YIYVJRISDSWGB
+[2026.08.04-23.53.22:692][781]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/QE2V86BB7YIYVJRISDSWGB41DF37BE4890B5262AF234863F809140.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/IE/QE2V86BB7YIYVJRISDSWGB.uasset'
+[2026.08.04-23.53.22:695][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/pava/scene/StaticMeshes/scene] ([1] browsable assets)...
+[2026.08.04-23.53.22:714][781]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ASSETS/pava/scene/StaticMeshes/scene.scene]
+[2026.08.04-23.53.22:715][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/pava/scene/StaticMeshes/scene]
+[2026.08.04-23.53.22:729][781]LogSavePackage: Moving output files for package: /Game/ASSETS/pava/scene/StaticMeshes/scene
+[2026.08.04-23.53.22:729][781]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/scene1B2CC1AC43EC72C46C45B38BE7E3F367.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/ASSETS/pava/scene/StaticMeshes/scene.uasset'
+[2026.08.04-23.53.22:731][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/pava/Material_003_normal] ([1] browsable assets)...
+[2026.08.04-23.53.22:734][781]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/pava/Material_003_normal.Material_003_normal]
+[2026.08.04-23.53.22:734][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/pava/Material_003_normal]
+[2026.08.04-23.53.22:785][781]LogSavePackage: Moving output files for package: /Game/ASSETS/pava/Material_003_normal
+[2026.08.04-23.53.22:785][781]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/Material_003_normalB01B103B4E2F369FB24B398F5A03A4A5.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/ASSETS/pava/Material_003_normal.uasset'
+[2026.08.04-23.53.22:788][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/pava/Material_003_metallicRoughness] ([1] browsable assets)...
+[2026.08.04-23.53.22:791][781]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/pava/Material_003_metallicRoughness.Material_003_metallicRoughness]
+[2026.08.04-23.53.22:791][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/pava/Material_003_metallicRoughness]
+[2026.08.04-23.53.22:848][781]LogSavePackage: Moving output files for package: /Game/ASSETS/pava/Material_003_metallicRoughness
+[2026.08.04-23.53.22:848][781]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/Material_003_metallicRoughnessEEA310064EFB25F93D9BB3ACEA89BFA6.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/ASSETS/pava/Material_003_metallicRoughness.uasset'
+[2026.08.04-23.53.22:850][781]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ASSETS/pava/Material_003_baseColor] ([1] browsable assets)...
+[2026.08.04-23.53.22:852][781]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ASSETS/pava/Material_003_baseColor.Material_003_baseColor]
+[2026.08.04-23.53.22:852][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/ASSETS/pava/Material_003_baseColor]
+[2026.08.04-23.53.22:899][781]LogSavePackage: Moving output files for package: /Game/ASSETS/pava/Material_003_baseColor
+[2026.08.04-23.53.22:899][781]LogSavePackage: Moving '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/Material_003_baseColor363CBE1A42535521EF72C7A65F7F9C92.tmp' to '../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Content/ASSETS/pava/Material_003_baseColor.uasset'
+[2026.08.04-23.53.22:918][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 334.827 ms (total: 1.19 sec)
+[2026.08.04-23.53.22:992][781]LogContentValidation: Display: Starting to validate 9 assets
+[2026.08.04-23.53.22:992][781]LogContentValidation: Enabled validators:
+[2026.08.04-23.53.22:992][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.04-23.53.22:992][781]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.04-23.53.22:992][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.04-23.53.22:992][781]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.04-23.53.22:992][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.04-23.53.22:992][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.04-23.53.22:992][781]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.08.04-23.53.22:993][781]AssetCheck: /Game/ASSETS/pava/scene/StaticMeshes/scene Validando recurso
+[2026.08.04-23.53.22:993][781]AssetCheck: /Game/ASSETS/pava/Material_003_normal Validando recurso
+[2026.08.04-23.53.22:993][781]AssetCheck: /Game/ASSETS/pava/Material_003_metallicRoughness Validando recurso
+[2026.08.04-23.53.22:993][781]AssetCheck: /Game/ASSETS/pava/Material_003_baseColor Validando recurso
+[2026.08.04-23.53.23:024][781]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jorge/OneDrive/Documentos/GitHub/TP2_Cav_Var_Ges_Caf/TP2_Cav_Var_Ges_Caf/Saved/SourceControl/UncontrolledChangelists.json
